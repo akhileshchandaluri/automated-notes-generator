@@ -286,8 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@akhileshchandaluri](https://github.com/akhileshchandaluri)
+- LinkedIn: [akhilesh chandaluri](https://www.linkedin.com/in/akhilesh-chandaluri-b8a87b292/)
 
 ## 🙏 Acknowledgments
 
@@ -299,7 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or feedback, please open an issue or contact [your.email@example.com](mailto:your.email@example.com)
+For questions or feedback, please open an issue or contact [nvachandaluri@gmail.com](mailto:nvachandaluri@gmail.com)
 
 ---
 
